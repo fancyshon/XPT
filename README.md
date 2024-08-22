@@ -4,8 +4,8 @@
 XPT is a special transformer architecture designed for Explainable FSL (Few Shot Learning).  
 
 The workflow and the overall archtecture is shown below: 
-![img](./images/workflow.png)
-![img2](./images/architecture.png)
+![img](./images/Workflow.png)
+![img](./images/architecture.png)
 
 ## Usage
 ### Set environment

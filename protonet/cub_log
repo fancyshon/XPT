@@ -1,0 +1,783 @@
+Dataset:  CUB
+Few shot task:  5 way 5 shot
+Epoch 0, average loss : 4.930781653433135
+Epoch 1, average loss : 4.677625468282988
+Epoch 2, average loss : 4.606472983504787
+Epoch 3, average loss : 4.534615560011431
+Epoch 4, average loss : 4.479573061971953
+Epoch 5, average loss : 4.409375523075913
+Epoch 6, average loss : 4.376067551699552
+Epoch 7, average loss : 4.318056207714659
+Epoch 8, average loss : 4.245803399519487
+Epoch 9, average loss : 4.186140811804569
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.50976
+Epoch 10, average loss : 4.086366162155613
+Epoch 11, average loss : 4.032623500534982
+Epoch 12, average loss : 3.997917045246471
+Epoch 13, average loss : 3.935959628134063
+Epoch 14, average loss : 3.8318425886558765
+Epoch 15, average loss : 3.773468935128414
+Epoch 16, average loss : 3.7060397610519873
+Epoch 17, average loss : 3.665966525222316
+Epoch 18, average loss : 3.5715435923952046
+Epoch 19, average loss : 3.4911804126970694
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.61872
+Epoch 20, average loss : 3.412330959782456
+Epoch 21, average loss : 3.356277978781498
+Epoch 22, average loss : 3.2558329755609687
+Epoch 23, average loss : 3.1974875348987
+Epoch 24, average loss : 3.1270473364627724
+Epoch 25, average loss : 3.065653576995387
+Epoch 26, average loss : 3.032475962783351
+Epoch 27, average loss : 2.959650415362734
+Epoch 28, average loss : 2.878549575805664
+Epoch 29, average loss : 2.819350076444221
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.73032
+Epoch 30, average loss : 2.7645260854200884
+Epoch 31, average loss : 2.725342461557099
+Epoch 32, average loss : 2.6476778117093174
+Epoch 33, average loss : 2.6005038853847617
+Epoch 34, average loss : 2.514354503515995
+Epoch 35, average loss : 2.4837516365629253
+Epoch 36, average loss : 2.40305376775337
+Epoch 37, average loss : 2.367231766382853
+Epoch 38, average loss : 2.3001160766139175
+Epoch 39, average loss : 2.243038054668542
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.7612
+Epoch 40, average loss : 2.176342234467015
+Epoch 41, average loss : 2.1770099220853862
+Epoch 42, average loss : 2.1418708129362627
+Epoch 43, average loss : 2.132753025401722
+Epoch 44, average loss : 2.025190396742387
+Epoch 45, average loss : 1.9790984175421975
+Epoch 46, average loss : 1.9738314368508079
+Epoch 47, average loss : 2.003586628220298
+Epoch 48, average loss : 1.9687608769445708
+Epoch 49, average loss : 1.877896912170179
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.77384
+Epoch 50, average loss : 1.8974528854543513
+Epoch 51, average loss : 1.8157798846562703
+Epoch 52, average loss : 1.7528795437379316
+Epoch 53, average loss : 1.704732288013805
+Epoch 54, average loss : 1.7273324908632222
+Epoch 55, average loss : 1.7029158491076846
+Epoch 56, average loss : 1.6414226040695652
+Epoch 57, average loss : 1.6161048990307432
+Epoch 58, average loss : 1.5968570709228516
+Epoch 59, average loss : 1.5728184093128552
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.80792
+Epoch 60, average loss : 1.557938033884222
+Epoch 61, average loss : 1.5031997579516787
+Epoch 62, average loss : 1.4615233811465176
+Epoch 63, average loss : 1.4435121362859553
+Epoch 64, average loss : 1.484005118861343
+Epoch 65, average loss : 1.4143256743748982
+Epoch 66, average loss : 1.4151231483979658
+Epoch 67, average loss : 1.3768801472403787
+Epoch 68, average loss : 1.3167934634468772
+Epoch 69, average loss : 1.340075099106991
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.82472
+Epoch 70, average loss : 1.3293165654847117
+Epoch 71, average loss : 1.301495378667658
+Epoch 72, average loss : 1.2856667294646755
+Epoch 73, average loss : 1.2700153842116848
+Epoch 74, average loss : 1.3246047894159954
+Epoch 75, average loss : 1.2658494024565725
+Epoch 76, average loss : 1.2141257705110493
+Epoch 77, average loss : 1.2020689194852656
+Epoch 78, average loss : 1.2284096696160056
+Epoch 79, average loss : 1.2437944881843799
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.84872
+Epoch 80, average loss : 1.1953045509078286
+Epoch 81, average loss : 1.177911881244544
+Epoch 82, average loss : 1.1653621142560786
+Epoch 83, average loss : 1.1619613278995862
+Epoch 84, average loss : 1.1502649784088135
+Epoch 85, average loss : 1.1526898181799687
+Epoch 86, average loss : 1.1071710405927715
+Epoch 87, average loss : 1.1183016444697524
+Epoch 88, average loss : 1.0988147547750762
+Epoch 89, average loss : 1.077359342213833
+Epoch 90, average loss : 1.1114180575717578
+Epoch 91, average loss : 1.0645785927772522
+Epoch 92, average loss : 1.086678318905108
+Epoch 93, average loss : 1.085280797698281
+Epoch 94, average loss : 1.0733286666147637
+Epoch 95, average loss : 1.0520161498676648
+Epoch 96, average loss : 1.0462037216533313
+Epoch 97, average loss : 1.0533254796808416
+Epoch 98, average loss : 1.1186784451658076
+Epoch 99, average loss : 1.0511748483686736
+Epoch 100, average loss : 1.0350133270928354
+Epoch 101, average loss : 0.9981602321971547
+Epoch 102, average loss : 1.0655448960535454
+Epoch 103, average loss : 1.0235138788367764
+Epoch 104, average loss : 0.9403795383193276
+Epoch 105, average loss : 0.9745833602818575
+Epoch 106, average loss : 0.9715316530429956
+Epoch 107, average loss : 0.9952117439472314
+Epoch 108, average loss : 0.978684374780366
+Epoch 109, average loss : 1.0024215308102695
+Epoch 110, average loss : 1.0221228888540557
+Epoch 111, average loss : 0.9899330446214387
+Epoch 112, average loss : 0.9517995913823446
+Epoch 113, average loss : 0.9384857632897117
+Epoch 114, average loss : 0.8780013485388323
+Epoch 115, average loss : 0.9681259465940071
+Epoch 116, average loss : 0.9536963502566019
+Epoch 117, average loss : 0.9598533962712144
+Epoch 118, average loss : 0.9298684199651083
+Epoch 119, average loss : 0.8945271481167186
+Epoch 120, average loss : 0.8927816477688876
+Epoch 121, average loss : 0.8752773909857778
+Epoch 122, average loss : 0.8251438953659751
+Epoch 123, average loss : 0.8628097700350212
+Epoch 124, average loss : 0.9679553581006599
+Epoch 125, average loss : 0.9010933926611235
+Epoch 126, average loss : 0.8922711719166149
+Epoch 127, average loss : 0.9055022434754805
+Epoch 128, average loss : 0.8866006641676931
+Epoch 129, average loss : 0.9008231018528794
+Epoch 130, average loss : 0.8800595962640011
+Epoch 131, average loss : 0.8823687072956201
+Epoch 132, average loss : 0.849373813831445
+Epoch 133, average loss : 0.8739544225461555
+Epoch 134, average loss : 0.8607354850480051
+Epoch 135, average loss : 0.8737738204724861
+Epoch 136, average loss : 0.8533483201807196
+Epoch 137, average loss : 0.8682921275948033
+Epoch 138, average loss : 0.8494169224392284
+Epoch 139, average loss : 0.871666537992882
+Epoch 140, average loss : 0.8887568080064022
+Epoch 141, average loss : 0.8215420625426553
+Epoch 142, average loss : 0.8537063526384758
+Epoch 143, average loss : 0.8737547903349905
+Epoch 144, average loss : 0.8688182270888126
+Epoch 145, average loss : 0.8166379440914501
+Epoch 146, average loss : 0.8332511999390342
+Epoch 147, average loss : 0.8521758625001619
+Epoch 148, average loss : 0.8271304116104589
+Epoch 149, average loss : 0.8270320531093713
+Epoch 150, average loss : 0.6598608367370836
+Epoch 151, average loss : 0.5338697126417449
+Epoch 152, average loss : 0.5123382879026008
+Epoch 153, average loss : 0.49555704629782477
+Epoch 154, average loss : 0.48082838275215845
+Epoch 155, average loss : 0.4700499791087526
+Epoch 156, average loss : 0.4763143712824041
+Epoch 157, average loss : 0.4674931818788702
+Epoch 158, average loss : 0.4679739701025414
+Epoch 159, average loss : 0.44540341966079944
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.85072
+Epoch 160, average loss : 0.4424569886742216
+Epoch 161, average loss : 0.43591566970854095
+Epoch 162, average loss : 0.42389577627182007
+Epoch 163, average loss : 0.4081164598464966
+Epoch 164, average loss : 0.43068961573369574
+Epoch 165, average loss : 0.4140020021886537
+Epoch 166, average loss : 0.4326805987141349
+Epoch 167, average loss : 0.40900471806526184
+Epoch 168, average loss : 0.4025864510825186
+Epoch 169, average loss : 0.3944024850021709
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.85448
+Epoch 170, average loss : 0.4192961869817792
+Epoch 171, average loss : 0.38568023389036005
+Epoch 172, average loss : 0.40401283177462494
+Epoch 173, average loss : 0.40533835102211346
+Epoch 174, average loss : 0.4209270477294922
+Epoch 175, average loss : 0.4191447017770825
+Epoch 176, average loss : 0.39573852853341535
+Epoch 177, average loss : 0.37730635567144916
+Epoch 178, average loss : 0.3899647674777291
+Epoch 179, average loss : 0.383873953963771
+Epoch 180, average loss : 0.39644217310529767
+Epoch 181, average loss : 0.3949682495810769
+Epoch 182, average loss : 0.3946123177354986
+Epoch 183, average loss : 0.3899320698145664
+Epoch 184, average loss : 0.3922843201593919
+Epoch 185, average loss : 0.3753311164451368
+Epoch 186, average loss : 0.3642781227827072
+Epoch 187, average loss : 0.3528737452897159
+Epoch 188, average loss : 0.35524743976015033
+Epoch 189, average loss : 0.37955493367079535
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.85592
+Epoch 190, average loss : 0.368994824814074
+Epoch 191, average loss : 0.37148358966365
+Epoch 192, average loss : 0.3626321012323553
+Epoch 193, average loss : 0.3667175273100535
+Epoch 194, average loss : 0.3654630026130965
+Epoch 195, average loss : 0.3941349549727006
+Epoch 196, average loss : 0.37205144040512317
+Epoch 197, average loss : 0.35748108769908093
+Epoch 198, average loss : 0.3797629421407526
+Epoch 199, average loss : 0.3595895374363119
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.85752
+Average accuracy : 81.38 %
+Dataset:  CUB
+Few shot task:  5 way 1 shot
+Epoch 0, average loss : 4.930781653433135
+Epoch 1, average loss : 4.677625468282988
+Epoch 2, average loss : 4.606472983504787
+Epoch 3, average loss : 4.534615560011431
+Epoch 4, average loss : 4.479573061971953
+Epoch 5, average loss : 4.409375523075913
+Epoch 6, average loss : 4.376067551699552
+Epoch 7, average loss : 4.318056207714659
+Epoch 8, average loss : 4.245803399519487
+Epoch 9, average loss : 4.186140811804569
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.398
+Epoch 10, average loss : 4.086366162155613
+Epoch 11, average loss : 4.032623500534982
+Epoch 12, average loss : 3.997917045246471
+Epoch 13, average loss : 3.935959628134063
+Epoch 14, average loss : 3.8318425886558765
+Epoch 15, average loss : 3.773468935128414
+Epoch 16, average loss : 3.7060397610519873
+Epoch 17, average loss : 3.665966525222316
+Epoch 18, average loss : 3.5715435923952046
+Epoch 19, average loss : 3.4911804126970694
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.46752
+Epoch 20, average loss : 3.412330959782456
+Epoch 21, average loss : 3.356277978781498
+Epoch 22, average loss : 3.2558329755609687
+Epoch 23, average loss : 3.1974875348987
+Epoch 24, average loss : 3.1270473364627724
+Epoch 25, average loss : 3.065653576995387
+Epoch 26, average loss : 3.032475962783351
+Epoch 27, average loss : 2.959650415362734
+Epoch 28, average loss : 2.878549575805664
+Epoch 29, average loss : 2.819350076444221
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.55504
+Epoch 30, average loss : 2.7645260854200884
+Epoch 31, average loss : 2.725342461557099
+Epoch 32, average loss : 2.6476778117093174
+Epoch 33, average loss : 2.6005038853847617
+Epoch 34, average loss : 2.514354503515995
+Epoch 35, average loss : 2.4837516365629253
+Epoch 36, average loss : 2.40305376775337
+Epoch 37, average loss : 2.367231766382853
+Epoch 38, average loss : 2.3001160766139175
+Epoch 39, average loss : 2.243038054668542
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.58816
+Epoch 40, average loss : 2.176342234467015
+Epoch 41, average loss : 2.1770099220853862
+Epoch 42, average loss : 2.1418708129362627
+Epoch 43, average loss : 2.132753025401722
+Epoch 44, average loss : 2.025190396742387
+Epoch 45, average loss : 1.9790984175421975
+Epoch 46, average loss : 1.9738314368508079
+Epoch 47, average loss : 2.003586628220298
+Epoch 48, average loss : 1.9687608769445708
+Epoch 49, average loss : 1.877896912170179
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.59432
+Epoch 50, average loss : 1.8974528854543513
+Epoch 51, average loss : 1.8157798846562703
+Epoch 52, average loss : 1.7528795437379316
+Epoch 53, average loss : 1.704732288013805
+Epoch 54, average loss : 1.7273324908632222
+Epoch 55, average loss : 1.7029158491076846
+Epoch 56, average loss : 1.6414226040695652
+Epoch 57, average loss : 1.6161048990307432
+Epoch 58, average loss : 1.5968570709228516
+Epoch 59, average loss : 1.5728184093128552
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.63744
+Epoch 60, average loss : 1.557938033884222
+Epoch 61, average loss : 1.5031997579516787
+Epoch 62, average loss : 1.4615233811465176
+Epoch 63, average loss : 1.4435121362859553
+Epoch 64, average loss : 1.484005118861343
+Epoch 65, average loss : 1.4143256743748982
+Epoch 66, average loss : 1.4151231483979658
+Epoch 67, average loss : 1.3768801472403787
+Epoch 68, average loss : 1.3167934634468772
+Epoch 69, average loss : 1.340075099106991
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.64256
+Epoch 70, average loss : 1.3293165654847117
+Epoch 71, average loss : 1.301495378667658
+Epoch 72, average loss : 1.2856667294646755
+Epoch 73, average loss : 1.2700153842116848
+Epoch 74, average loss : 1.3246047894159954
+Epoch 75, average loss : 1.2658494024565725
+Epoch 76, average loss : 1.2141257705110493
+Epoch 77, average loss : 1.2020689194852656
+Epoch 78, average loss : 1.2284096696160056
+Epoch 79, average loss : 1.2437944881843799
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.66456
+Epoch 80, average loss : 1.1953045509078286
+Epoch 81, average loss : 1.177911881244544
+Epoch 82, average loss : 1.1653621142560786
+Epoch 83, average loss : 1.1619613278995862
+Epoch 84, average loss : 1.1502649784088135
+Epoch 85, average loss : 1.1526898181799687
+Epoch 86, average loss : 1.1071710405927715
+Epoch 87, average loss : 1.1183016444697524
+Epoch 88, average loss : 1.0988147547750762
+Epoch 89, average loss : 1.077359342213833
+Epoch 90, average loss : 1.1114180575717578
+Epoch 91, average loss : 1.0645785927772522
+Epoch 92, average loss : 1.086678318905108
+Epoch 93, average loss : 1.085280797698281
+Epoch 94, average loss : 1.0733286666147637
+Epoch 95, average loss : 1.0520161498676648
+Epoch 96, average loss : 1.0462037216533313
+Epoch 97, average loss : 1.0533254796808416
+Epoch 98, average loss : 1.1186784451658076
+Epoch 99, average loss : 1.0511748483686736
+Epoch 100, average loss : 1.0350133270928354
+Epoch 101, average loss : 0.9981602321971547
+Epoch 102, average loss : 1.0655448960535454
+Epoch 103, average loss : 1.0235138788367764
+Epoch 104, average loss : 0.9403795383193276
+Epoch 105, average loss : 0.9745833602818575
+Epoch 106, average loss : 0.9715316530429956
+Epoch 107, average loss : 0.9952117439472314
+Epoch 108, average loss : 0.978684374780366
+Epoch 109, average loss : 1.0024215308102695
+Epoch 110, average loss : 1.0221228888540557
+Epoch 111, average loss : 0.9899330446214387
+Epoch 112, average loss : 0.9517995913823446
+Epoch 113, average loss : 0.9384857632897117
+Epoch 114, average loss : 0.8780013485388323
+Epoch 115, average loss : 0.9681259465940071
+Epoch 116, average loss : 0.9536963502566019
+Epoch 117, average loss : 0.9598533962712144
+Epoch 118, average loss : 0.9298684199651083
+Epoch 119, average loss : 0.8945271481167186
+Epoch 120, average loss : 0.8927816477688876
+Epoch 121, average loss : 0.8752773909857778
+Epoch 122, average loss : 0.8251438953659751
+Epoch 123, average loss : 0.8628097700350212
+Epoch 124, average loss : 0.9679553581006599
+Epoch 125, average loss : 0.9010933926611235
+Epoch 126, average loss : 0.8922711719166149
+Epoch 127, average loss : 0.9055022434754805
+Epoch 128, average loss : 0.8866006641676931
+Epoch 129, average loss : 0.9008231018528794
+Epoch 130, average loss : 0.8800595962640011
+Epoch 131, average loss : 0.8823687072956201
+Epoch 132, average loss : 0.849373813831445
+Epoch 133, average loss : 0.8739544225461555
+Epoch 134, average loss : 0.8607354850480051
+Epoch 135, average loss : 0.8737738204724861
+Epoch 136, average loss : 0.8533483201807196
+Epoch 137, average loss : 0.8682921275948033
+Epoch 138, average loss : 0.8494169224392284
+Epoch 139, average loss : 0.871666537992882
+Epoch 140, average loss : 0.8887568080064022
+Epoch 141, average loss : 0.8215420625426553
+Epoch 142, average loss : 0.8537063526384758
+Epoch 143, average loss : 0.8737547903349905
+Epoch 144, average loss : 0.8688182270888126
+Epoch 145, average loss : 0.8166379440914501
+Epoch 146, average loss : 0.8332511999390342
+Epoch 147, average loss : 0.8521758625001619
+Epoch 148, average loss : 0.8271304116104589
+Epoch 149, average loss : 0.8270320531093713
+Epoch 150, average loss : 0.6598608367370836
+Epoch 151, average loss : 0.5338697126417449
+Epoch 152, average loss : 0.5123382879026008
+Epoch 153, average loss : 0.49555704629782477
+Epoch 154, average loss : 0.48082838275215845
+Epoch 155, average loss : 0.4700499791087526
+Epoch 156, average loss : 0.4763143712824041
+Epoch 157, average loss : 0.4674931818788702
+Epoch 158, average loss : 0.4679739701025414
+Epoch 159, average loss : 0.44540341966079944
+Epoch 160, average loss : 0.4424569886742216
+Epoch 161, average loss : 0.43591566970854095
+Epoch 162, average loss : 0.42389577627182007
+Epoch 163, average loss : 0.4081164598464966
+Epoch 164, average loss : 0.43068961573369574
+Epoch 165, average loss : 0.4140020021886537
+Epoch 166, average loss : 0.4326805987141349
+Epoch 167, average loss : 0.40900471806526184
+Epoch 168, average loss : 0.4025864510825186
+Epoch 169, average loss : 0.3944024850021709
+Epoch 170, average loss : 0.4192961869817792
+Epoch 171, average loss : 0.38568023389036005
+Epoch 172, average loss : 0.40401283177462494
+Epoch 173, average loss : 0.40533835102211346
+Epoch 174, average loss : 0.4209270477294922
+Epoch 175, average loss : 0.4191447017770825
+Epoch 176, average loss : 0.39573852853341535
+Epoch 177, average loss : 0.37730635567144916
+Epoch 178, average loss : 0.3899647674777291
+Epoch 179, average loss : 0.383873953963771
+Epoch 180, average loss : 0.39644217310529767
+Epoch 181, average loss : 0.3949682495810769
+Epoch 182, average loss : 0.3946123177354986
+Epoch 183, average loss : 0.3899320698145664
+Epoch 184, average loss : 0.3922843201593919
+Epoch 185, average loss : 0.3753311164451368
+Epoch 186, average loss : 0.3642781227827072
+Epoch 187, average loss : 0.3528737452897159
+Epoch 188, average loss : 0.35524743976015033
+Epoch 189, average loss : 0.37955493367079535
+Epoch 190, average loss : 0.368994824814074
+Epoch 191, average loss : 0.37148358966365
+Epoch 192, average loss : 0.3626321012323553
+Epoch 193, average loss : 0.3667175273100535
+Epoch 194, average loss : 0.3654630026130965
+Epoch 195, average loss : 0.3941349549727006
+Epoch 196, average loss : 0.37205144040512317
+Epoch 197, average loss : 0.35748108769908093
+Epoch 198, average loss : 0.3797629421407526
+Epoch 199, average loss : 0.3595895374363119
+Average accuracy : 58.53 %
+Dataset:  CUB
+Few shot task:  5 way 5 shot
+Epoch 0, average loss : 4.930781653433135
+Epoch 1, average loss : 4.677625468282988
+Epoch 2, average loss : 4.606472983504787
+Epoch 3, average loss : 4.534615560011431
+Epoch 4, average loss : 4.479573061971953
+Epoch 5, average loss : 4.409375523075913
+Epoch 6, average loss : 4.376067551699552
+Epoch 7, average loss : 4.318056207714659
+Epoch 8, average loss : 4.245803399519487
+Epoch 9, average loss : 4.186140811804569
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.50976
+Epoch 10, average loss : 4.086366162155613
+Epoch 11, average loss : 4.032623500534982
+Epoch 12, average loss : 3.997917045246471
+Epoch 13, average loss : 3.935959628134063
+Epoch 14, average loss : 3.8318425886558765
+Epoch 15, average loss : 3.773468935128414
+Epoch 16, average loss : 3.7060397610519873
+Epoch 17, average loss : 3.665966525222316
+Epoch 18, average loss : 3.5715435923952046
+Epoch 19, average loss : 3.4911804126970694
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.61872
+Epoch 20, average loss : 3.412330959782456
+Epoch 21, average loss : 3.356277978781498
+Epoch 22, average loss : 3.2558329755609687
+Epoch 23, average loss : 3.1974875348987
+Epoch 24, average loss : 3.1270473364627724
+Epoch 25, average loss : 3.065653576995387
+Epoch 26, average loss : 3.032475962783351
+Epoch 27, average loss : 2.959650415362734
+Epoch 28, average loss : 2.878549575805664
+Epoch 29, average loss : 2.819350076444221
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.73032
+Epoch 30, average loss : 2.7645260854200884
+Epoch 31, average loss : 2.725342461557099
+Epoch 32, average loss : 2.6476778117093174
+Epoch 33, average loss : 2.6005038853847617
+Epoch 34, average loss : 2.514354503515995
+Epoch 35, average loss : 2.4837516365629253
+Epoch 36, average loss : 2.40305376775337
+Epoch 37, average loss : 2.367231766382853
+Epoch 38, average loss : 2.3001160766139175
+Epoch 39, average loss : 2.243038054668542
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.7612
+Epoch 40, average loss : 2.176342234467015
+Epoch 41, average loss : 2.1770099220853862
+Epoch 42, average loss : 2.1418708129362627
+Epoch 43, average loss : 2.132753025401722
+Epoch 44, average loss : 2.025190396742387
+Epoch 45, average loss : 1.9790984175421975
+Epoch 46, average loss : 1.9738314368508079
+Epoch 47, average loss : 2.003586628220298
+Epoch 48, average loss : 1.9687608769445708
+Epoch 49, average loss : 1.877896912170179
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.77384
+Epoch 50, average loss : 1.8974528854543513
+Epoch 51, average loss : 1.8157798846562703
+Epoch 52, average loss : 1.7528795437379316
+Epoch 53, average loss : 1.704732288013805
+Epoch 54, average loss : 1.7273324908632222
+Epoch 55, average loss : 1.7029158491076846
+Epoch 56, average loss : 1.6414226040695652
+Epoch 57, average loss : 1.6161048990307432
+Epoch 58, average loss : 1.5968570709228516
+Epoch 59, average loss : 1.5728184093128552
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.80792
+Epoch 60, average loss : 1.557938033884222
+Epoch 61, average loss : 1.5031997579516787
+Epoch 62, average loss : 1.4615233811465176
+Epoch 63, average loss : 1.4435121362859553
+Epoch 64, average loss : 1.484005118861343
+Epoch 65, average loss : 1.4143256743748982
+Epoch 66, average loss : 1.4151231483979658
+Epoch 67, average loss : 1.3768801472403787
+Epoch 68, average loss : 1.3167934634468772
+Epoch 69, average loss : 1.340075099106991
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.82472
+Epoch 70, average loss : 1.3293165654847117
+Epoch 71, average loss : 1.301495378667658
+Epoch 72, average loss : 1.2856667294646755
+Epoch 73, average loss : 1.2700153842116848
+Epoch 74, average loss : 1.3246047894159954
+Epoch 75, average loss : 1.2658494024565725
+Epoch 76, average loss : 1.2141257705110493
+Epoch 77, average loss : 1.2020689194852656
+Epoch 78, average loss : 1.2284096696160056
+Epoch 79, average loss : 1.2437944881843799
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.84872
+Epoch 80, average loss : 1.1953045509078286
+Epoch 81, average loss : 1.177911881244544
+Epoch 82, average loss : 1.1653621142560786
+Epoch 83, average loss : 1.1619613278995862
+Epoch 84, average loss : 1.1502649784088135
+Epoch 85, average loss : 1.1526898181799687
+Epoch 86, average loss : 1.1071710405927715
+Epoch 87, average loss : 1.1183016444697524
+Epoch 88, average loss : 1.0988147547750762
+Epoch 89, average loss : 1.077359342213833
+Epoch 90, average loss : 1.1114180575717578
+Epoch 91, average loss : 1.0645785927772522
+Epoch 92, average loss : 1.086678318905108
+Epoch 93, average loss : 1.085280797698281
+Epoch 94, average loss : 1.0733286666147637
+Epoch 95, average loss : 1.0520161498676648
+Epoch 96, average loss : 1.0462037216533313
+Epoch 97, average loss : 1.0533254796808416
+Epoch 98, average loss : 1.1186784451658076
+Epoch 99, average loss : 1.0511748483686736
+Epoch 100, average loss : 1.0350133270928354
+Epoch 101, average loss : 0.9981602321971547
+Epoch 102, average loss : 1.0655448960535454
+Epoch 103, average loss : 1.0235138788367764
+Epoch 104, average loss : 0.9403795383193276
+Epoch 105, average loss : 0.9745833602818575
+Epoch 106, average loss : 0.9715316530429956
+Epoch 107, average loss : 0.9952117439472314
+Epoch 108, average loss : 0.978684374780366
+Epoch 109, average loss : 1.0024215308102695
+Epoch 110, average loss : 1.0221228888540557
+Epoch 111, average loss : 0.9899330446214387
+Epoch 112, average loss : 0.9517995913823446
+Epoch 113, average loss : 0.9384857632897117
+Epoch 114, average loss : 0.8780013485388323
+Epoch 115, average loss : 0.9681259465940071
+Epoch 116, average loss : 0.9536963502566019
+Epoch 117, average loss : 0.9598533962712144
+Epoch 118, average loss : 0.9298684199651083
+Epoch 119, average loss : 0.8945271481167186
+Epoch 120, average loss : 0.8927816477688876
+Epoch 121, average loss : 0.8752773909857778
+Epoch 122, average loss : 0.8251438953659751
+Epoch 123, average loss : 0.8628097700350212
+Epoch 124, average loss : 0.9679553581006599
+Epoch 125, average loss : 0.9010933926611235
+Epoch 126, average loss : 0.8922711719166149
+Epoch 127, average loss : 0.9055022434754805
+Epoch 128, average loss : 0.8866006641676931
+Epoch 129, average loss : 0.9008231018528794
+Epoch 130, average loss : 0.8800595962640011
+Epoch 131, average loss : 0.8823687072956201
+Epoch 132, average loss : 0.849373813831445
+Epoch 133, average loss : 0.8739544225461555
+Epoch 134, average loss : 0.8607354850480051
+Epoch 135, average loss : 0.8737738204724861
+Epoch 136, average loss : 0.8533483201807196
+Epoch 137, average loss : 0.8682921275948033
+Epoch 138, average loss : 0.8494169224392284
+Epoch 139, average loss : 0.871666537992882
+Epoch 140, average loss : 0.8887568080064022
+Epoch 141, average loss : 0.8215420625426553
+Epoch 142, average loss : 0.8537063526384758
+Epoch 143, average loss : 0.8737547903349905
+Epoch 144, average loss : 0.8688182270888126
+Epoch 145, average loss : 0.8166379440914501
+Epoch 146, average loss : 0.8332511999390342
+Epoch 147, average loss : 0.8521758625001619
+Epoch 148, average loss : 0.8271304116104589
+Epoch 149, average loss : 0.8270320531093713
+Epoch 150, average loss : 0.6598608367370836
+Epoch 151, average loss : 0.5338697126417449
+Epoch 152, average loss : 0.5123382879026008
+Epoch 153, average loss : 0.49555704629782477
+Epoch 154, average loss : 0.48082838275215845
+Epoch 155, average loss : 0.4700499791087526
+Epoch 156, average loss : 0.4763143712824041
+Epoch 157, average loss : 0.4674931818788702
+Epoch 158, average loss : 0.4679739701025414
+Epoch 159, average loss : 0.44540341966079944
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.85072
+Epoch 160, average loss : 0.4424569886742216
+Epoch 161, average loss : 0.43591566970854095
+Epoch 162, average loss : 0.42389577627182007
+Epoch 163, average loss : 0.4081164598464966
+Epoch 164, average loss : 0.43068961573369574
+Epoch 165, average loss : 0.4140020021886537
+Epoch 166, average loss : 0.4326805987141349
+Epoch 167, average loss : 0.40900471806526184
+Epoch 168, average loss : 0.4025864510825186
+Epoch 169, average loss : 0.3944024850021709
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.85448
+Epoch 170, average loss : 0.4192961869817792
+Epoch 171, average loss : 0.38568023389036005
+Epoch 172, average loss : 0.40401283177462494
+Epoch 173, average loss : 0.40533835102211346
+Epoch 174, average loss : 0.4209270477294922
+Epoch 175, average loss : 0.4191447017770825
+Epoch 176, average loss : 0.39573852853341535
+Epoch 177, average loss : 0.37730635567144916
+Epoch 178, average loss : 0.3899647674777291
+Epoch 179, average loss : 0.383873953963771
+Epoch 180, average loss : 0.39644217310529767
+Epoch 181, average loss : 0.3949682495810769
+Epoch 182, average loss : 0.3946123177354986
+Epoch 183, average loss : 0.3899320698145664
+Epoch 184, average loss : 0.3922843201593919
+Epoch 185, average loss : 0.3753311164451368
+Epoch 186, average loss : 0.3642781227827072
+Epoch 187, average loss : 0.3528737452897159
+Epoch 188, average loss : 0.35524743976015033
+Epoch 189, average loss : 0.37955493367079535
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.85592
+Epoch 190, average loss : 0.368994824814074
+Epoch 191, average loss : 0.37148358966365
+Epoch 192, average loss : 0.3626321012323553
+Epoch 193, average loss : 0.3667175273100535
+Epoch 194, average loss : 0.3654630026130965
+Epoch 195, average loss : 0.3941349549727006
+Epoch 196, average loss : 0.37205144040512317
+Epoch 197, average loss : 0.35748108769908093
+Epoch 198, average loss : 0.3797629421407526
+Epoch 199, average loss : 0.3595895374363119
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.85752
+Training time: 0:24:41.086384
+Total time: 0:25:00.035940
+Average accuracy : 81.75 %
+Dataset:  CUB
+Few shot task:  5 way 1 shot
+Epoch 0, average loss : 4.930781653433135
+Epoch 1, average loss : 4.677625468282988
+Epoch 2, average loss : 4.606472983504787
+Epoch 3, average loss : 4.534615560011431
+Epoch 4, average loss : 4.479573061971953
+Epoch 5, average loss : 4.409375523075913
+Epoch 6, average loss : 4.376067551699552
+Epoch 7, average loss : 4.318056207714659
+Epoch 8, average loss : 4.245803399519487
+Epoch 9, average loss : 4.186140811804569
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.398
+Epoch 10, average loss : 4.086366162155613
+Epoch 11, average loss : 4.032623500534982
+Epoch 12, average loss : 3.997917045246471
+Epoch 13, average loss : 3.935959628134063
+Epoch 14, average loss : 3.8318425886558765
+Epoch 15, average loss : 3.773468935128414
+Epoch 16, average loss : 3.7060397610519873
+Epoch 17, average loss : 3.665966525222316
+Epoch 18, average loss : 3.5715435923952046
+Epoch 19, average loss : 3.4911804126970694
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.46752
+Epoch 20, average loss : 3.412330959782456
+Epoch 21, average loss : 3.356277978781498
+Epoch 22, average loss : 3.2558329755609687
+Epoch 23, average loss : 3.1974875348987
+Epoch 24, average loss : 3.1270473364627724
+Epoch 25, average loss : 3.065653576995387
+Epoch 26, average loss : 3.032475962783351
+Epoch 27, average loss : 2.959650415362734
+Epoch 28, average loss : 2.878549575805664
+Epoch 29, average loss : 2.819350076444221
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.55504
+Epoch 30, average loss : 2.7645260854200884
+Epoch 31, average loss : 2.725342461557099
+Epoch 32, average loss : 2.6476778117093174
+Epoch 33, average loss : 2.6005038853847617
+Epoch 34, average loss : 2.514354503515995
+Epoch 35, average loss : 2.4837516365629253
+Epoch 36, average loss : 2.40305376775337
+Epoch 37, average loss : 2.367231766382853
+Epoch 38, average loss : 2.3001160766139175
+Epoch 39, average loss : 2.243038054668542
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.58816
+Epoch 40, average loss : 2.176342234467015
+Epoch 41, average loss : 2.1770099220853862
+Epoch 42, average loss : 2.1418708129362627
+Epoch 43, average loss : 2.132753025401722
+Epoch 44, average loss : 2.025190396742387
+Epoch 45, average loss : 1.9790984175421975
+Epoch 46, average loss : 1.9738314368508079
+Epoch 47, average loss : 2.003586628220298
+Epoch 48, average loss : 1.9687608769445708
+Epoch 49, average loss : 1.877896912170179
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.59432
+Epoch 50, average loss : 1.8974528854543513
+Epoch 51, average loss : 1.8157798846562703
+Epoch 52, average loss : 1.7528795437379316
+Epoch 53, average loss : 1.704732288013805
+Epoch 54, average loss : 1.7273324908632222
+Epoch 55, average loss : 1.7029158491076846
+Epoch 56, average loss : 1.6414226040695652
+Epoch 57, average loss : 1.6161048990307432
+Epoch 58, average loss : 1.5968570709228516
+Epoch 59, average loss : 1.5728184093128552
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.63744
+Epoch 60, average loss : 1.557938033884222
+Epoch 61, average loss : 1.5031997579516787
+Epoch 62, average loss : 1.4615233811465176
+Epoch 63, average loss : 1.4435121362859553
+Epoch 64, average loss : 1.484005118861343
+Epoch 65, average loss : 1.4143256743748982
+Epoch 66, average loss : 1.4151231483979658
+Epoch 67, average loss : 1.3768801472403787
+Epoch 68, average loss : 1.3167934634468772
+Epoch 69, average loss : 1.340075099106991
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.64256
+Epoch 70, average loss : 1.3293165654847117
+Epoch 71, average loss : 1.301495378667658
+Epoch 72, average loss : 1.2856667294646755
+Epoch 73, average loss : 1.2700153842116848
+Epoch 74, average loss : 1.3246047894159954
+Epoch 75, average loss : 1.2658494024565725
+Epoch 76, average loss : 1.2141257705110493
+Epoch 77, average loss : 1.2020689194852656
+Epoch 78, average loss : 1.2284096696160056
+Epoch 79, average loss : 1.2437944881843799
+Ding ding ding! We found a new best model! 🏆
+Accuracy:  0.66456
+Epoch 80, average loss : 1.1953045509078286
+Epoch 81, average loss : 1.177911881244544
+Epoch 82, average loss : 1.1653621142560786
+Epoch 83, average loss : 1.1619613278995862
+Epoch 84, average loss : 1.1502649784088135
+Epoch 85, average loss : 1.1526898181799687
+Epoch 86, average loss : 1.1071710405927715
+Epoch 87, average loss : 1.1183016444697524
+Epoch 88, average loss : 1.0988147547750762
+Epoch 89, average loss : 1.077359342213833
